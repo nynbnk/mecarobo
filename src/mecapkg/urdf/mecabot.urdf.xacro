@@ -70,7 +70,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find mecapkg)/meshes/chassis.STL" />
+          filename="file://$(find mecapkg)/meshes/chassis.stl" />
       </geometry>
       <material
         name="">
@@ -84,7 +84,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find mecapkg)/meshes/chassis.STL" />
+          filename="file://$(find mecapkg)/meshes/chassis.stl" />
       </geometry>
     </collision>
   </link>
@@ -110,7 +110,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find mecapkg)/meshes/fl.STL" />
+          filename="file://$(find mecapkg)/meshes/fl.stl" />
       </geometry>
       <material
         name="">
@@ -124,7 +124,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find mecapkg)/meshes/fl.STL" />
+          filename="file://$(find mecapkg)/meshes/fl.stl" />
       </geometry>
     </collision>
   </link>
@@ -163,7 +163,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find mecapkg)/meshes/br.STL" />
+          filename="file://$(find mecapkg)/meshes/br.stl" />
       </geometry>
       <material
         name="">
@@ -177,7 +177,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find mecapkg)/meshes/br.STL" />
+          filename="file://$(find mecapkg)/meshes/br.stl" />
       </geometry>
     </collision>
   </link>
@@ -216,7 +216,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find mecapkg)/meshes/fr.STL" />
+          filename="file://$(find mecapkg)/meshes/fr.stl" />
       </geometry>
       <material
         name="">
@@ -230,7 +230,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find mecapkg)/meshes/fr.STL" />
+          filename="file://$(find mecapkg)/meshes/fr.stl" />
       </geometry>
     </collision>
   </link>
@@ -269,7 +269,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find mecapkg)/meshes/bl.STL" />
+          filename="file://$(find mecapkg)/meshes/bl.stl" />
       </geometry>
       <material
         name="">
@@ -283,7 +283,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="file://$(find mecapkg)/meshes/bl.STL" />
+          filename="file://$(find mecapkg)/meshes/bl.stl" />
       </geometry>
     </collision>
   </link>

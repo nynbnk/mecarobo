@@ -26,13 +26,13 @@ def generate_launch_description():
 
     vel_cont_spawner = Node(
         package="controller_manager",
-        executable="spawner",
+        executable="spawner.py",
         arguments=["vel_cont"],
     )
 
     joint_broad_spawner = Node(
         package="controller_manager",
-        executable="spawner",
+        executable="spawner.py",
         arguments=["joint_state_broadcaster"],
 )
         
